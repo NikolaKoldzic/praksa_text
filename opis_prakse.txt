@@ -1,0 +1,25 @@
+Android Automotive Project
+
+Cilj projekta je razvoj platforme baziranoj na široko korišćenom Android projektu otvorenog koda [AOSP].
+Sistem sličan onom u motornim vozilima može se koristiti za testiranje, verifikaciju i prezentaciju drugih proizvoda kompanije.
+Dizajnirana je platforma bazirana na Raspberry Pi ploči, takođe su podržane kontrole dodirom pomoću Waveshare ekrana.
+Teme i zadaci obrađeni u okviru prakse:
+1. Bildovanje Android Automotive OS platforme za x64 arhitekturu
+2. Integrisanje aplikacije kao sistemske, i podrška za njeno update-ovanje
+3. Organizacije i održavanje repozitorijuma
+4. Potpisivanje sistema i testiranje na hardveru
+5. Kreiranje posebnog launcher-a za AAOS
+
+
+Pisanje i debagovanje koda za Android Automotive aplikacije i servise.
+Razvoj korisničkih interfejsa prilagođenih okruženjima u automobilu.
+Upravljanje repozitorijumima izvornog koda koristeći Git, osiguravajući da se poštovati strategije grananja i spajanja.
+Podešavanje i konfigurisanje CI/CD pipeline-a koristeći alate kao što su Githab ili Azure DevOps.
+Konfigurisanje alata za automatizaciju izrade kao što su Gradle ili Maven za kompajliranje i pakovanje Android automobilskih aplikacija.
+Obezbeđivanje kompatibilnosti i integracija Android Automotive OS-a sa različitim hardverskim komponentama emuliranog vozila.
+Rad na integraciji third party aplikacija i servisa.
+Rad sa međufunkcionalnim timovima, uključujući hardverske inženjere, mobilne programere, dizajnere i menadžere proizvoda.
+Učestvovanje u agilnim procesima razvoja, uključujući planiranje sprinta, dnevne sastanke i retrospektive.
+Dokumentovanje koda, procesa i dizajnerskih odluka.
+Istraživanje novih tehnologija i funkcija koje se mogu integrisati u Android automobilski OS.
+Izrada prototipa i eksperimentisanje sa inovativnim idejama za poboljšanje iskustva u automobilu.
