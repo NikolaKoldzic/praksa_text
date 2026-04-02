@@ -25,8 +25,9 @@ Istraživanje novih tehnologija i funkcija koje se mogu integrisati u Android au
 Izrada prototipa i eksperimentisanje sa inovativnim idejama za poboljšanje iskustva u automobilu.
 
 
-
+Praksa u kompaniji Bosch Srbija
+(april 2025. - oktobar 2025.)
 
 Tokom stručne prakse, učestvovao sam u projektu razvoja platforme bazirane na Android Automotive OS-u (AAOS), koja je dizajnirana da simulira okruženje informacionog sistema u motornim vozilima. Glavni cilj prakse bio je sticanje praktičnog iskustva u radu sa AOSP (Android Open Source Project) i njegovoj primeni u kontekstu automobilske industrije, uz istovremeno testiranje i verifikaciju internih proizvoda kompanije.Kroz praktičan rad, stekao sam uvid u kompleksnost razvoja i implementacije ugrađenih sistema, fokusirajući se na softverska rešenja za vozila. Stekao sam iskustva u organizovanju i održavanju repozitorijuma, potpisivanju softvera i pisanju dokumentacije. Platforma na kojoj sam radio zasniva se na Raspberry Pi hardveru i podržava touch-screen interakciju putem Waveshare ekrana, što je omogućilo realistično testiranje i demonstraciju funkcionalnosti.
 
-[Praksa u kompaniji Bosch Srbija]
+
